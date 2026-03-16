@@ -40,6 +40,13 @@ covering 100,000+ orders from 2016–2018.
 ├── dashboard/          # Power BI .pbix file
 └── images/             # Dashboard screenshots
 ```
+## 🧹 Data Cleaning
+- Handled missing values across 7 tables (details in notebook)
+- Key decisions: delivery date nulls retained (valid incomplete orders),
+  product info filled with median/unknown for deleted listings,
+  review comments filled with placeholder for non-text reviews
+- Resolved 551 duplicate reviews by keeping most recent submission
+- Final dataset: 99,441 orders · 98,673 reviews · 0 unintended duplicates
 
 ## 🔍 Analysis Breakdown
 ### 1. Exploratory Data Analysis
