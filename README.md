@@ -4,10 +4,10 @@ End-to-end data analysis project on Brazilian e-commerce platform Olist,
 covering 100,000+ orders from 2016–2018.
 
 ## 📊 Dashboard Preview
-![Overview](images/dashboard_overview.png)
-![Customer](images/dashboard_customer.png)
-![Product](images/dashboard_product.png)
-![Delivery](images/dashboard_delivery.png)
+![Overview](image/dashboard_overview.png)
+![Customer](image/dashboard_customer.png)
+![Product](image/dashboard_product.png)
+![Delivery](image/dashboard_delivery.png)
 
 ## 🎯 Business Questions Answered
 - How has revenue trended over time? Are there seasonal patterns?
