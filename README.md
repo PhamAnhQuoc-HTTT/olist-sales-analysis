@@ -21,7 +21,7 @@ covering 100,000+ orders from 2016–2018.
   — a 1.83-point impact, the single biggest driver of low ratings
 - **24.1% of customers are "At Risk"** of churning — the largest segment,
   suggesting an urgent need for a win-back campaign
-- **100% of customers purchased only once** (frequency std = 0) —
+- **~97% of customers purchased only once (repeat purchase rate: 2.98%) —
   indicating a critical gap in retention and loyalty strategy
 - Estimated delivery averages **23 days** vs actual **10 days** —
   Olist deliberately over-estimates to manage customer expectations
