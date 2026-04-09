@@ -5,9 +5,16 @@ covering 100,000+ orders from 2016–2018.
 
 ## 📊 Dashboard Preview
 ![Overview](image/dashboard_overview.png)
+> Revenue peaked in late 2017 before stabilizing. Avg order value ~R$160 across 96K orders.
+
 ![Customer](image/dashboard_customer.png)
+> 24% of customers are At Risk — the largest segment. Repeat purchase rate is only ~3%, signaling a critical retention gap.
+
 ![Product](image/dashboard_product.png)
+> Top 10 categories account for ~55% of total revenue, led by health & beauty (R$1.26M).
+
 ![Delivery](image/dashboard_delivery.png)
+> 7.6% late deliveries cause review scores to drop by 1.83 points — the single biggest driver of low ratings.
 
 ## 🎯 Business Questions Answered
 - How has revenue trended over time? Are there seasonal patterns?
